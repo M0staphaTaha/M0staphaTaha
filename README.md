@@ -7,7 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mostapha</h1></summary>
     <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;I'm +Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=342FA9&random=false&width=435&lines=Sallam+3likum+W+Ra7amat+Allah+W+Barakato;Iam+Front-End+Developer;Computer+Science+Student;I+Hope+U+Enjoy+%3A)" alt="Typing SVG" /></a>
 </p>
   </ul>
 </div>
