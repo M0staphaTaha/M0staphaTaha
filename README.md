@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning  **React, nextjs, .Net**
 
-- 🔭 I’m currently working with a team of two other individuals on this website [IEEE Website](https://ieee-front-amr-hafeez.vercel.app/) With Team
+- 🔭 I’m currently working with a team of two other individuals on this website [IEEE Website](https://ieee-front-amr-hafeez.vercel.app/)
 
 - 📝 I Problem Solver [CodeForces](https://codeforces.com/profile/M0stapha_Taha?fbclid=IwAR004sf7LvOF8jF7ntKOFrMuudF9TsJPt71x17XGPsSdJ0esT45vY2eJ8io)
 
