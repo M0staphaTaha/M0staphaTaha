@@ -42,7 +42,7 @@
 
 - 📝 I Problem Solver [CodeForces](https://codeforces.com/profile/M0stapha_Taha?fbclid=IwAR004sf7LvOF8jF7ntKOFrMuudF9TsJPt71x17XGPsSdJ0esT45vY2eJ8io)
 
-- 💬 Ask me about **react, nextjs, .Net**
+- 💬 Ask me about **react, nextjs, node.js**
 
 - 📫 Feel free to reach me out **freelancing_messages@hotmail.com**
 
