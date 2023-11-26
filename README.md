@@ -36,7 +36,7 @@
 - 💼  [My Portfolio](https://mostapha-taha.vercel.app)
 
 
-- 🌱 I’m currently learning  **React, nextjs, .Net**
+- 🌱 I’m currently learning  **React, nextjs, node.js**
 
 <!--- 🔭 I’m currently working with a team of two other individuals on this website [IEEE Website](https://ieee-front-amr-hafeez.vercel.app/)-->
 
