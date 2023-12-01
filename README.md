@@ -55,9 +55,9 @@
 <p align="center">
   <!--- stats (start) -->
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0staphataha&show_icons=true&theme=dracula&locale=en&layout=compact" alt="m0staphataha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0staphataha&show_icons=true&theme=dark&title_color=ffffff&text_color=e8e3e3&locale=en&layout=compact" alt="m0staphataha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0staphataha&show_icons=true&theme=dracula&title_color=924eb1&text_color=a670a4&bg_color=323544&locale=en" alt="m0staphataha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0staphataha&show_icons=true&theme=dark&title_color=ffffff&text_color=eee8e8&bg_color=000000&locale=en" alt="m0staphataha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0staphataha&theme=dark" alt="m0staphataha" /></p>
 </div>
