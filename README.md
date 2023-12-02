@@ -55,7 +55,9 @@
 <p align="center">
   <!--- stats (start) -->
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0staphataha&show_icons=true&theme=dark&title_color=ffffff&text_color=e8e3e3&locale=en&layout=compact" alt="m0staphataha" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0staphataha&show_icons=true&theme=dark&title_color=ffffff&text_color=e8e3e3&locale=en&layout=compact" alt="m0staphataha" /></p>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0staphataha&show_icons=true&theme=dark&title_color=ffffff&text_color=eee8e8&bg_color=000000&locale=en" alt="m0staphataha" /></p>
 
