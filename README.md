@@ -38,7 +38,7 @@
 - 💼  [My Portfolio](https://mostapha-taha.vercel.app)
 
 
-- 🌱 I’m currently learning  **React, nextjs, node.js**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- 🌱 I’m currently learning  **React, nextjs, node.js**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--- 🔭 I’m currently working with a team of two other individuals on this website [IEEE Website](https://ieee-front-amr-hafeez.vercel.app/)-->
 
