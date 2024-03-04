@@ -1,0 +1,25 @@
+name: Generate Snake GIF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake GIF
+        uses: Platane/snk@v2
+        with:
+          username: M0staphaTaha
+          output: snake.gif
+
+      - name: Upload GIF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-gif
+          path: snake.gif
