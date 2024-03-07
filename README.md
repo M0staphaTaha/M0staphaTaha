@@ -16,11 +16,7 @@
 
 
 <!--- snake -->
-<div align="center">
 
-  <img  src="https://platane.github.io/snk/"
-       alt="snake" />
-</div>
 
 
 <!--h2 without bottom border-->
