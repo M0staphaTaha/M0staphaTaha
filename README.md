@@ -43,7 +43,7 @@ console.log("Welcome to my profile");
 
 - 💬 Ask me about **react, nextjs, node.js**
 
-- 📫 Feel free to reach me out **freelancing_messages@hotmail.com**
+- 📫 Feel free to reach me out **m0stapha1@hotmail.com**
 
 - 🏠  [My CV](https://m0staphataha.github.io/My-CV/).
 <!--Intro end-->
