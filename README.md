@@ -45,7 +45,7 @@ console.log("Welcome to my profile");
 
 - 📫 Feel free to reach me out **m0stapha1@hotmail.com**
 
-- 🏠  [My CV](https://m0staphataha.github.io/My-CV/).
+- 🏠  [My CV](https://flowcv.com/resume/tuqcpijwb6).
 <!--Intro end-->
 
 
