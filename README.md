@@ -3,6 +3,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
+<div align="center">
+  
+<p> <img width="450px" src="https://github.com/M0staphaTaha/M0staphaTaha/assets/101586362/b6f60a2e-c964-40f6-abf9-045951663ea4" alt="m0staphataha" /> </p>
+  
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mostapha</h1></summary>
