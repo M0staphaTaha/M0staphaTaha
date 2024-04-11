@@ -14,7 +14,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mostapha</h1></summary>
     <p align="center">
     <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=342FA9&random=false&width=435&lines=Sallam+3likum+W+Ra7amat+Allah;Iam+Front-End+Developer;Computer+Science+Student;I+Hope+U+Enjoy+%3A)" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0036ff&random=false&width=435&lines=Sallam+3likum+W+Ra7amat+Allah;Iam+Front-End+Developer;Computer+Science+Student;I+Hope+U+Enjoy+%3A)" alt="Typing SVG" /></a>
     </div>
 </p>
   </ul>
